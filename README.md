@@ -1,2 +1,2 @@
 # To-DoList
-Created with CodeSandbox
+Created a tod-do list with React.js
