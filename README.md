@@ -1,2 +1,2 @@
 # To-DoList
-Created a tod-do list with React.js
+Created a to-do list with React.js
